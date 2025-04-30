@@ -1,0 +1,1 @@
+This repo showcases automating the Tic Tac Toe game using different Reinforcement Learning Methods. We start with Model Based Reinforcement Learning and go through Policy Evaluation, Greedy Policy Improvement, Value Iteration. Model Free learning methods are yet to be implemented
